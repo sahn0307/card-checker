@@ -1,6 +1,6 @@
 import json
 import csv
-
+# added this line to test git
 # Load the Scryfall card data from JSON file
 with open('oracle-cards.json', 'r') as file:
     scryfall_cards = json.load(file)
