@@ -15,7 +15,7 @@ def load_tsv_data(tsv_file):
 
             cards = []
             for row in reader:
-                # print(f"Processing row: Ambiguity = {row[0]}")  # Debug print
+                #Edit rows below to match spreadsheet
                 cards.append({
                     'ambiguity': row[0],
                     'name': row[4],  # Updated column index for name
@@ -84,7 +84,7 @@ def check_cards(cards, scryfall_cards, header):
 
     return discrepancies
 
-cards, header = load_tsv_data('cards.tsv')
+cards, header = load_tsv_data('cards.tsv') #Edit to match spreadsheet
 discrepancies = check_cards(cards, scryfall_cards, header)
 num_mismatches = len(discrepancies)
 
