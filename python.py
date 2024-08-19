@@ -15,7 +15,7 @@ def load_tsv_data(tsv_file):
 
             cards = []
             for row in reader:
-                print(f"Processing row: Ambiguity = {row[0]}")  # Debug print
+                # print(f"Processing row: Ambiguity = {row[0]}")  # Debug print
                 cards.append({
                     'ambiguity': row[0],
                     'name': row[4],  # Updated column index for name
@@ -31,7 +31,7 @@ def check_cards(cards, scryfall_cards, header):
     discrepancies = []
     total_cards = len(cards)
     for i, card in enumerate(cards, start=1):
-        name = card['name'].lower()  # Convert name to lowercase
+        name = card['name'].lower()
         artist = card['artist']
         set_code = card['set_code']
         ambiguity = card['ambiguity']
@@ -49,18 +49,14 @@ def check_cards(cards, scryfall_cards, header):
                 'discrepancy': 'Name not found in db'
             })
         else:
-            # Name matches at least one card in the database
-            matching_cards = [c for c in name_matches if c['artist'] == artist and c['set'].lower() == set_code.lower()]
-            if not matching_cards:
-                # Artist and/or set code don't match any card with the same name
-                artist_mismatch = False
-                set_mismatch = False
-                for c in name_matches:
-                    if c['artist'] != artist:
-                        artist_mismatch = True
-                    if c['set'].lower() != set_code.lower():
-                        set_mismatch = True
-
+            # Check if there's an exact match (name, artist, and set)
+            exact_match = any(c for c in name_matches if c['artist'] == artist and c['set'].lower() == set_code.lower())
+            
+            if not exact_match:
+                # Find the discrepancies
+                artist_mismatch = not any(c for c in name_matches if c['artist'] == artist)
+                set_mismatch = not any(c for c in name_matches if c['set'].lower() == set_code.lower())
+                
                 if artist_mismatch and set_mismatch:
                     discrepancy = 'Artist and set not found in db'
                 elif artist_mismatch:
@@ -68,12 +64,18 @@ def check_cards(cards, scryfall_cards, header):
                 else:
                     discrepancy = 'Set not found in db'
 
+                # Find the correct combinations in the database
+                correct_artists = set(c['artist'] for c in name_matches)
+                correct_sets = set(c['set'].lower() for c in name_matches)
+
                 discrepancies.append({
                     'ambiguity': ambiguity,
                     'name': card['name'],
                     'set_code': set_code,
                     'artist': artist,
-                    'discrepancy': discrepancy
+                    'discrepancy': discrepancy,
+                    'correct_artists': ', '.join(correct_artists),
+                    'correct_sets': ', '.join(correct_sets)
                 })
 
         # Print progress every 100 cards
@@ -89,8 +91,8 @@ num_mismatches = len(discrepancies)
 print(f"Number of mismatches found: {num_mismatches}")
 
 # Write discrepancies to a CSV file
-with open('discrepancies.csv', 'w', newline='') as csvfile:
-    fieldnames = ['ambiguity', 'name', 'set_code', 'artist', 'discrepancy']
+with open('discrepancies.csv', 'w', newline='', encoding='utf-8') as csvfile:
+    fieldnames = ['ambiguity', 'name', 'set_code', 'artist', 'discrepancy', 'correct_artists', 'correct_sets']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
     writer.writeheader()
