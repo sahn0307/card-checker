@@ -1,0 +1,806 @@
+ambiguity,name,set_code,artist,discrepancy
+7,abey gargoyles,HML,Christopher Rush,Name mismatch
+14,active volcano,4ED,Justin Hampton,Set mismatch
+17,aeopile,FEM,Heather Hudson,Name mismatch
+38,aethersnipe,MMA,Z Boros and G Szikszai,Artist and set mismatch
+46,ajani's pridemate token,M20,Howard Lyon,Name mismatch
+59,"ajani, strength of the pride",M19,Chris Rallis,Set mismatch
+60,"ajani, strength of the pride",M19,Chris Rallis,Set mismatch
+61,"ajani, strength of the pride",M19,Chris Rallis,Set mismatch
+64,akki coalfinger,CHK,Nottsuo,Name mismatch
+66,akki underminder,CHK,Thomas M Baxa,Name mismatch
+68,akroma's memorial,FUT,Dan Scott,Artist and set mismatch
+69,akroma's memorial,FUT,Dan Scott,Artist and set mismatch
+70,akroma's memorial,FUT,Dan Scott,Artist and set mismatch
+71,akroma's memorial,FUT,Dan Scott,Artist and set mismatch
+82,"alrund, god of the cosmos",KHM,Richard Luong,Name mismatch
+83,"alrund, god of the cosmos",KHM,Richard Luong,Name mismatch
+95,an-havva constable,ICE,Dan Frazier,Set mismatch
+116,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",M12,Alan Pollack,Name mismatch
+117,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",M12,Alan Pollack,Name mismatch
+118,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",M12,Alan Pollack,Name mismatch
+119,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth","SOM, 10E, 9ED, M10, M11, M12, DST",Alan Pollack,Name mismatch
+120,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",10E,Alan Pollack,Name mismatch
+121,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",10E,Alan Pollack,Name mismatch
+122,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",10E,Alan Pollack,Name mismatch
+123,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",9ED,Alan Pollack,Name mismatch
+124,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",9ED,Alan Pollack,Name mismatch
+125,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",9ED,Alan Pollack,Name mismatch
+126,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",DST,Alan Pollack,Name mismatch
+127,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",DST,Alan Pollack,Name mismatch
+128,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",DST,Alan Pollack,Name mismatch
+129,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",M10,Alan Pollack,Name mismatch
+130,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",M10,Alan Pollack,Name mismatch
+131,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",M10,Alan Pollack,Name mismatch
+132,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",M11,Alan Pollack,Name mismatch
+133,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",M11,Alan Pollack,Name mismatch
+134,"angel's feather, kraken's eye, dragon's claw, demon's horn, wurm's tooth",M11,Alan Pollack,Name mismatch
+163,apprentice sorcerer,POR,Christopher Rush,Set mismatch
+169,arc bound hybrid,DST,Alan Pollack,Name mismatch
+185,arguel's blood fast,XLN,Daarken,Name mismatch
+218,ashnod's altar,CRN,Anson Maddocks,Artist and set mismatch
+219,ashnod's altar,CRN,Anson Maddocks,Artist and set mismatch
+220,ashnod's altar,CRN,Anson Maddocks,Artist and set mismatch
+225,ashnoeds cylix,ALL,Nicola Leonard,Name mismatch
+230,astral arena,PC2,Sam Burley,Set mismatch
+231,astral arena,PCA,Sam Burley,Set mismatch
+232,ather membrane,PLC,Z Boros and G Szikszai,Name mismatch
+251,aurochs,ICE,Ken Meyer Jr.,Artist and set mismatch
+261,aven brigader,ONS,Greg Staples,Name mismatch
+266,avenger of zendikar,WWK,Z Boros and G Szikszai,Artist and set mismatch
+273,awe strike,MRD,Scott Fischer,Artist mismatch
+277,"babygodzilla, ruin reborn / pollywog symbiote",IKO,Simon Dominic,Name mismatch
+278,"babygodzilla, ruin reborn / pollywog symbiote",IKO,Simon Dominic,Name mismatch
+278,"babygodzilla, ruin reborn / pollywog symbiote",IKO,Simon Dominic,Name mismatch
+279,"babygodzilla, ruin reborn / pollywog symbiote",IKO,Simon Dominic,Name mismatch
+280,"babygodzilla, ruin reborn / pollywog symbiote",IKO,Simon Dominic,Name mismatch
+281,"babygodzilla, ruin reborn / pollywog symbiote",IKO,Simon Dominic,Name mismatch
+282,"babygodzilla, ruin reborn / pollywog symbiote",IKO,Simon Dominic,Name mismatch
+283,"babygodzilla, ruin reborn / pollywog symbiote",IKO,Simon Dominic,Name mismatch
+284,"babygodzilla, ruin reborn / pollywog symbiote",IKO,Simon Dominic,Name mismatch
+285,"babygodzilla, ruin reborn / pollywog symbiote",IKO,Simon Dominic,Name mismatch
+286,"babygodzilla, ruin reborn / pollywog symbiote",IKO,Simon Dominic,Name mismatch
+287,"babygodzilla, ruin reborn / pollywog symbiote",IKO,Simon Dominic,Name mismatch
+288,"babygodzilla, ruin reborn / pollywog symbiote",IKO,Simon Dominic,Name mismatch
+289,bad moon,TSP,Jesper Myrfors,Artist and set mismatch
+294,balduvian bear,ICE,Quinton Hoover,Name mismatch
+295,balduvian trading post,ALL,Tom Wanerstrand,Artist and set mismatch
+297,baleful strix,SLD,Allen Dougas,Artist and set mismatch
+300,baloth woodcrasher,ZEN,Z Boros and G Szikszai,Artist and set mismatch
+326,basri ket title card,JMP,KIERAN YANNER,Name mismatch
+336,battle mastery,LRW,Z Boros and G Szikszai,Artist and set mismatch
+356,bellowing tanglewurm,SOM,JD,Artist and set mismatch
+357,ben-ben akki hermit,CHK,Greg Staples,Name mismatch
+359,benalish knight,10E,Z Boros and G Szikszai,Artist and set mismatch
+368,bird maiden,4ED,Phil Foglio,Artist and set mismatch
+370,bird token,ZNE,Howard Lyon,Name mismatch
+395,blightning,ALA,Thomas M Baxa,Artist and set mismatch
+418,bloodfire colussus,10E,Greg Staples,Name mismatch
+419,bloodfire colussus,9ED,Greg Staples,Name mismatch
+420,bloodfire colussus,APC,Greg Staples,Name mismatch
+448,bog wraith,6ED,Jeff A Menges,Artist and set mismatch
+469,bosium strip,WTH,Steve Luke,Name mismatch
+469,bosium strip,WTH,Steve Luke,Name mismatch
+470,bosom budy,UNH,Dan Scott,Name mismatch
+477,bounty of the hunt,ALL,Jeff A Menges,Artist and set mismatch
+528,brion stoutarm,LRW,Z Boros and G Szikszai,Artist and set mismatch
+530,brooding saurian,CSP,RK Post,Artist and set mismatch
+548,budoka gardener,CHK,Kev Walker,Name mismatch
+560,burning inquiry,M10,Z Boros and G Szikszai,Artist and set mismatch
+563,burning wish,TOR,Scott Fischer,Artist and set mismatch
+564,burning wish,TOR,Scott Fischer,Artist and set mismatch
+567,burst of speed,M10,Z Boros and G Szikszai,Artist mismatch
+569,bushi tenderfoot,CHK,Mark Zug,Name mismatch
+570,bygone bishop,SOI,Jason A Engle,Artist and set mismatch
+583,call of the herd,TSP,Carl Critchlow,Artist and set mismatch
+584,call of the herd,TSP,Carl Critchlow,Artist and set mismatch
+588,call of the herd,"DDS, TPS. MM3",Carl Critchlow,Artist and set mismatch
+615,careful study,ODY,Scott Fischer,Artist and set mismatch
+620,carrion howler,RTR,John Zeleznik,Set mismatch
+624,cast through time,ROE,Z Boros and G Szikszai,Artist mismatch
+625,castle foreign,4ED,Dameon Willich,Name mismatch
+649,cenn's tactician,MOR,Z Boros and G Szikszai,Artist and set mismatch
+650,cephalic constable,10E,Alan Pollack,Name mismatch
+680,chaotic aether,PC2,Dan Scott,Artist and set mismatch
+691,chromatog,VIS,Christopher Rush,Name mismatch
+698,circle of protection black,LEB,Jesper Myrfors,Name mismatch
+707,circle of protection: blue foreign,4ED,Dameon Willich,Name mismatch
+712,"circle of protection: green, elder druid, ivory cup",7ED,Alan Pollack,Name mismatch
+732,clairvoyance,ICE,Ken Meyer Jr.,Artist mismatch
+740,clearwater pathway,ZNR,Daarken,Name mismatch
+743,clockspinning,TSP,Z Boros and G Szikszai,Artist and set mismatch
+799,consecrate land,TSP,Jeff A. Menges,Set mismatch
+805,contagion clasp,SOM,Anthony Polumbo,Artist and set mismatch
+816,coral barrier,M13,Florian de Gesincourt,Set mismatch
+819,corpulent corpose,TSP,Doug Chaffee,Name mismatch
+821,corrupt,7ED,Scott Fischer,Artist and set mismatch
+822,cosi's ravager,WWK,Z Boros and G Szikszai,Artist and set mismatch
+826,counterspell,ICE,L.A Williams,Artist and set mismatch
+831,courser of kruphix,M25,Eric Deschamps,Artist and set mismatch
+832,courser of krupix,A25,Eric Deschamps,Name mismatch
+835,covenant of fire,ICE,Dan Frazier,Name mismatch
+844,craw giant,DRK,Christopher Rush,Artist and set mismatch
+865,cryoclasm,10E,Z Boros and G Szikszai,Artist and set mismatch
+872,crystallization,ARB,Z Boros and G Szikszai,Artist mismatch
+873,crytic gateway,ONS,David Martin,Name mismatch
+874,culling the weak,EXO,Scott Fischer,Artist and set mismatch
+874,culling the weak,EXO,Scott Fischer,Artist and set mismatch
+882,cyclopean mummy,4ED,Edward Beard JR,Artist and set mismatch
+883,cytoplast manipulator,DIS,Dan Scott,Artist mismatch
+887,damping engine,ULG,RK Post,Artist mismatch
+887,damping engine,ULG,RK Post,Artist mismatch
+888,damping engine,ULG,RK Post,Artist mismatch
+889,damping engine,ULG,RK Post,Artist mismatch
+890,damping engine,ULG,RK Post,Artist mismatch
+891,damping engine,ULG,RK Post,Artist mismatch
+892,dandan,5ED,Drew Tucker,Name mismatch
+908,dash hopes,PLC,Z Boros and G Szikszai,Artist and set mismatch
+928,deal damage,UNH,Scott Fischer,Artist mismatch
+942,debtor's knell,GPT,Kev Walker,Name mismatch
+955,Deep-sea serpent,POR,Scott Fischer,Artist mismatch
+956,defense grid,LRW,Mark Tedin,Artist and set mismatch
+966,deglamer,MOR,Z Boros and G Szikszai,Artist and set mismatch
+967,delight in the hunt,ARC,Titus Lunter,Set mismatch
+994,desert,TSP,Jesper Myrfors,Artist and set mismatch
+998,desolation giant,TSP,Alan Pollack,Set mismatch
+999,desolation giant,TSP,Alan Pollack,Set mismatch
+1001,desolation giant,TSP,Alan Pollack,Set mismatch
+1002,desolation giant,TPS,Alan Pollack,Set mismatch
+1003,desolation giant,TPS,Alan Pollack,Set mismatch
+1005,desolation giant,TSP,Alan Pollack,Set mismatch
+1006,desolation giant,"TSP, C15",Alan Pollack,Set mismatch
+1021,devestation,POR,Steve Luke,Name mismatch
+1022,devestation,POR,Steve Luke,Name mismatch
+1023,devestation,POR,Steve Luke,Name mismatch
+1024,devestation,S99,Steve Luke,Name mismatch
+1025,devour in shadow,5DN,Thomas M Baxa,Artist mismatch
+1027,diabolic servitude,USG,Scott Fischer,Artist and set mismatch
+1051,divine offering,CHR,Jeff A Menges,Artist and set mismatch
+1069,"dorat, the perfect pet / sprite dragon",IKO,Simon Dominic,Name mismatch
+1070,"dorat, the perfect pet / sprite dragon",IKO,Simon Dominic,Name mismatch
+1071,"dorat, the perfect pet / sprite dragon",IKO,Simon Dominic,Name mismatch
+1072,"dorat, the perfect pet / sprite dragon",IKO,Simon Dominic,Name mismatch
+1073,"dorat, the perfect pet / sprite dragon",IKO,Simon Dominic,Name mismatch
+1073,"dorat, the perfect pet / sprite dragon",IKO,Simon Dominic,Name mismatch
+1074,"dorat, the perfect pet / sprite dragon",IKO,Simon Dominic,Name mismatch
+1075,"dorat, the perfect pet / sprite dragon",IKO,Simon Dominic,Name mismatch
+1076,"dorat, the perfect pet / sprite dragon",IKO,Simon Dominic,Name mismatch
+1077,"dorat, the perfect pet / sprite dragon",IKO,Simon Dominic,Name mismatch
+1078,"dorat, the perfect pet / sprite dragon",IKO,Simon Dominic,Name mismatch
+1079,"dorat, the perfect pet / sprite dragon",IKO,Simon Dominic,Name mismatch
+1082,double deal,UGL,Edward P Beard Jr,Artist mismatch
+1086,double negative,ARB,Parente,Artist mismatch
+1087,double play,UGL,Claymore J Flapdoodle,Artist mismatch
+1088,double play,UGL,Claymore J Flapdoodle,Artist mismatch
+1089,double take,UGL,Claymore J Flapdoodle,Artist mismatch
+1090,double take,UGL,Claymore J Flapdoodle,Artist mismatch
+1111,dragon token,WAR,KIERAN YANNER,Name mismatch
+1112,dragon whelp,TSP,Amy Weber,Artist and set mismatch
+1114,dragon whelp foreign,4ED,Amy Weber,Name mismatch
+1134,dragonlair spider,"PCA, CN2, PC2",Carl Critchlow,Set mismatch
+1135,dragonlair spider,"PCA, CN2, PC2",Carl Critchlow,Set mismatch
+1139,"dranlu, lich lord",TSP,Greg Staples,Name mismatch
+1140,drawn together,UNH,Pete Venters,Artist mismatch
+1141,drawn together,UNH,Pete Venters,Artist mismatch
+1142,drawn together,UNH,Pete Venters,Artist mismatch
+1148,dream thrush,INV,DJ Cleland-Hura,Artist and set mismatch
+1151,drelnoch,CSP,Z Boros and G Szikszai,Artist mismatch
+1157,dromad purebread,RAV,Carl Critchlow,Name mismatch
+1187,duress,IXA,Lucas Graciano,Artist and set mismatch
+1188,duress,IXA,Lucas Graciano,Artist and set mismatch
+1189,duress,IXA,Lucas Graciano,Artist and set mismatch
+1190,duress,IXA,Lucas Graciano,Artist and set mismatch
+1191,duress,IXA,Lucas Graciano,Artist and set mismatch
+1192,duress,IXA,Lucas Graciano,Artist and set mismatch
+1193,duress,IXA,Lucas Graciano,Artist and set mismatch
+1194,duress,IXA,Lucas Graciano,Artist and set mismatch
+1196,duress,IXA,Lucas Graciano,Artist and set mismatch
+1197,duress,IXA,Lucas Graciano,Artist and set mismatch
+1201,dust of moments,LRW,Z Boros and G Szikszai,Artist and set mismatch
+1214,"eastern paladin, western paladin",8ED,Carl Critchlow,Name mismatch
+1228,"elbrus, the binding blade",V17,Eric Deschamps,Name mismatch
+1245,elixir of immortality,M13,Z Boros and G Szikszai,Artist and set mismatch
+1254,elvish impersonator,UGL,Claymore J Flapdoodle,Name mismatch
+1255,elvish impersonator,UGL,Claymore J Flapdoodle,Name mismatch
+1270,endbringer,OGW,Adam Paquette,Artist and set mismatch
+1271,endbringer,OGW,Adam Paquette,Artist and set mismatch
+1276,enduring renewal,TSP,Harold McNeill,Set mismatch
+1282,energy flux,4ED,Phil Foglio,Artist and set mismatch
+1293,enlightened tutor x4,MIR,Dan Frazier,Name mismatch
+1295,ensaring bridge,STH,Pete Venters,Name mismatch
+1296,ensaring bridge,MPS,Florian de Gesincourt,Name mismatch
+1297,enslave,PLC,Z Boros and G Szikszai,Artist and set mismatch
+1299,ensnaring bridge,SHD,Pete Venters,Artist and set mismatch
+1301,ensoul artifact,M15,Jasper Sander,Artist and set mismatch
+1305,erase,UNH,Pete Venters,Artist and set mismatch
+1306,erase,UNH,Pete Venters,Artist and set mismatch
+1308,ernham djinn,CHR,Ken Meyer Jr,Name mismatch
+1312,erratic mutation,MMA,Z Boros and G Szikszai,Artist and set mismatch
+1317,"esika, god of the tree",KHM,Collin Estrada,Name mismatch
+1317,"esika, god of the tree",KHM,Collin Estrada,Name mismatch
+1318,essence of the wild,ISD',Terese Nielsen,Set mismatch
+1349,executioner's capsule,ARB,Warren Mahy,Set mismatch
+1370,exploding borders,CON,Z Boros and G Szikszai,Artist mismatch
+1377,extinguish,POR,Douglas Shuler,Artist and set mismatch
+1380,extractor demon,"MM3, C15, CMA, CON",Carl Critchlow,Set mismatch
+1382,exuberant firestoker,ALA,Z Boros and G Szikszai,Artist mismatch
+1399,faerie macabre,MMA,RK Post,Artist and set mismatch
+1400,faerie swarm,SHM,Z Boros and G Szikszai,Artist and set mismatch
+1401,failure // comply,AKH,Jason A Engle,Artist and set mismatch
+1401,failure // comply,AKH,Jason A Engle,Artist and set mismatch
+1402,fairie trickery,LRW,Terese Nielsen,Name mismatch
+1403,faithful squire,CHK,Mark Zug,Name mismatch
+1404,faithful squire,CHK,Mark Zug,Name mismatch
+1405,faithless looting,WWK,Gabor Szikszai,Artist and set mismatch
+1411,fallen angel,CRN,Anson Maddocks,Artist and set mismatch
+1412,fallen angel,CRN,Anson Maddocks,Artist and set mismatch
+1412,fallen angel,CRN,Anson Maddocks,Artist and set mismatch
+1436,fatal attraction,LRW,Z Boros and G Szikszai,Artist and set mismatch
+1442,fated configuration,BNG,Adam Paquette,Name mismatch
+1446,felidar sovereign,ZEN,Z Boros and G Szikszai,Artist and set mismatch
+1447,felidar sovereign,PRM,Zoltan Boros & Gabor Szikszai,Artist and set mismatch
+1448,felidar sovereign,PRM,Zoltan Boros & Gabor Szikszai,Artist and set mismatch
+1449,femeref archers,10E,Z Boros and G Szikszai,Artist and set mismatch
+1484,fiery conclusion,PC2,Parente,Artist and set mismatch
+1485,fiery gambit,MRD,Scott Fischer,Artist and set mismatch
+1492,fire // ice,APC,David Martin//Franz Vohwinkel,Artist and set mismatch
+1511,first come first served,UNH,Thomas Gianni,Name mismatch
+1512,first come first served,UNH,Thomas Gianni,Name mismatch
+1515,fishliver oil,CRN,Anson Maddocks,Artist and set mismatch
+1516,fishliver oil,CRN,Anson Maddocks,Artist and set mismatch
+1520,flameblade angel,SOI,Howard Lyon,Artist and set mismatch
+1521,flamekin bladwhirl,LRW,Mark Zug,Name mismatch
+1522,flamekin spitfire,LRW,Z Boros and G Szikszai,Artist mismatch
+1527,flashfires foreign,4ED,Dameon Willich,Name mismatch
+1530,fleshblood,DGM,Lucas Graciano,Name mismatch
+1535,flock of rabid sheep,UGL,Anthony Waters,Artist mismatch
+1550,flying carpet,7ED,Scott Fischer,Artist and set mismatch
+1554,food token,ELD,Lucas Graciano,Name mismatch
+1555,food token,ELD,Randy Gallegos,Name mismatch
+1556,fool's demise,C14,Z Boros and G Szikszai,Artist and set mismatch
+1565,forest,7ED,DJ Cleland-Hura,Artist and set mismatch
+1594,forest,PRM,Mark Poole,Artist and set mismatch
+1595,forest,ALA,Z Boros and G Szikszai,Artist and set mismatch
+1596,forest,ALA,Z Boros and G Szikszai,Artist and set mismatch
+1612,forest,5ED,Christopher Rush,Artist and set mismatch
+1614,forest,ICE,Pat Morrissey,Artist and set mismatch
+1615,forest,ICE,Pat Morrissey,Artist and set mismatch
+1616,forest,ICE,Pat Morrissey,Artist and set mismatch
+1617,forge of the squirrel,UNH,Carl Critchlow,Name mismatch
+1625,formation,ICE,Ken Meyer Jr.,Artist mismatch
+1636,foundry inspector,KLD,Jason A Engle,Artist and set mismatch
+1642,framed!,UNH,Alan Pollack,Artist mismatch
+1644,free-for-all,UGL,Claymore J Flapdoodle,Artist mismatch
+1645,free-for-all,UGL,Claymore J Flapdoodle,Artist mismatch
+1658,fydhorn elder,ICE,Christopher Rush,Name mismatch
+1659,fylgja,ICE,Edward Beard Jr.,Artist mismatch
+1715,ghazban ogre,5ED,Mike Raabe,Name mismatch
+1716,ghirapur gearcrafter,ORI,Victor Adam Minguez,Artist and set mismatch
+1723,ghost tactician,PLC,Z Boros and G Szikszai,Artist mismatch
+1724,giant grab,BTD,Tom Kyffin,Name mismatch
+1728,giant slug,CRN,Anson Maddocks,Set mismatch
+1735,giant tortoise,4ED,Phil Foglio,Artist and set mismatch
+1747,gilded goose,SLD,Allen Dougas,Artist and set mismatch
+1763,gloomlance,SHM,Z Boros and G Szikszai,Artist mismatch
+1764,glory of warfare,ARB,Parente,Artist and set mismatch
+1765,glowrider,LGN,Scott Fischer,Artist mismatch
+1776,goblin bookie,UGL,Claymore J Flapdoodle,Artist mismatch
+1777,goblin bookie,UGL,Claymore J Flapdoodle,Artist mismatch
+1817,goblin sleigh ride,H15,Mark Zug,Set mismatch
+1821,goblin warchief,FNM,Mark Zug,Artist and set mismatch
+1822,goblin warchief,FNM,Mark Zug,Artist and set mismatch
+1823,goblin welder,C14,Scott Fischer,Artist and set mismatch
+1824,goblin welder,C14,Scott Fischer,Artist and set mismatch
+1829,goblin welder,ULG,Scott M Fischer,Artist and set mismatch
+1840,goldknight castigator,SOI,Zack Stella,Name mismatch
+1841,golem skin,2XM,Alan Pollack,Name mismatch
+1842,golem skin,2XM,Alan Pollack,Name mismatch
+1844,golemskin gauntlets,MRD,Alan Pollack,Name mismatch
+1848,golgari guildmage,RAV,Z Boros and G Szikszai,Artist and set mismatch
+1852,gorilla shaman,ICE,Anthony Waters,Artist and set mismatch
+1861,grand arbiter augustin iv,DIS,Z Boros and G Szikszai,Artist and set mismatch
+1875,gravedigger,TMP,Tony Szczudlo,Artist and set mismatch
+1876,graven cairns,IMA,Anthony Waters,Artist and set mismatch
+1879,gravestorm,ODY,Alex Horley,Artist and set mismatch
+1881,greater morphling,UNH,Greg Staples,Artist mismatch
+1882,greater morphling,UNH,Greg Staples,Artist mismatch
+1900,grim harvest,CSP,Z Boros and G Szikszai,Artist and set mismatch
+1901,"grimlock, dinobot leader",H17,Tyler Jacobson,Name mismatch
+1902,"grimlock, dinobot leader",H17,Tyler Jacobson,Name mismatch
+1903,"grimlock, dinobot leader",H17,Tyler Jacobson,Name mismatch
+1904,"grimlock, ferocious king",H17,Tyler Jacobson,Name mismatch
+1905,"grimlock, ferocious king",H17,Tyler Jacobson,Name mismatch
+1906,"grimlock, ferocious king",H17,Tyler Jacobson,Name mismatch
+1919,grizzled outcasts,ISD,Randy Gallegos,Name mismatch
+1921,grizzly bears,7ED,DJ Cleland-Hura,Artist and set mismatch
+1922,grizzly bears,7ED,DJ Cleland-Hura,Artist and set mismatch
+1923,grotag siege-runner,ROE,Z Boros and G Szikszai,Artist mismatch
+1948,guile,LRW,Z Boros and G Szikszai,Artist and set mismatch
+1966,hada freeblade,WWK,Cyril van Der Haegen,Artist and set mismatch
+1967,hada spy patrol,ROE,Z Boros and G Szikszai,Artist and set mismatch
+1968,hail storm,ALL,Jeff A Menges,Artist and set mismatch
+1969,hail-storm,TSP,Jeff A. Menges,Name mismatch
+1970,"hakka, whispering raven",KHM,Richard Luong,Name mismatch
+1971,"hakka, whispering raven",KHM,Richard Luong,Name mismatch
+1994,harbinger of the hunt,UTK,Chris Rahn,Artist and set mismatch
+2022,hearthcage giant,LRW,Z Boros and G Szikszai,Artist mismatch
+2036,heliods piligrim,M15,Izzy,Name mismatch
+2042,helldozer,RAV,Z Boros and G Szikszai,Artist and set mismatch
+2043,hellkite hatchling,HOP,Daarken,Set mismatch
+2055,hide//seek,DIS,Z Boros and G Szikszai,Name mismatch
+2056,hideous end,ZEN,Z Boros and G Szikszai,Artist and set mismatch
+2067,high market,"CMA, C15",Carl Critchlow,Set mismatch
+2068,high market,"CMA, C15",Carl Critchlow,Set mismatch
+2070,hijack,KLD,Victor Adam Minguez,Artist and set mismatch
+2075,hold the perimeter,CN2,Jason A Engle,Artist mismatch
+2078,"homura, human ascendant",SOK,Kev Walker,Name mismatch
+2157,hurkyl's recall,ATQ,Nene Thomas,Artist and set mismatch
+2158,hurkyls recall,MM2,Ralph Horsley,Name mismatch
+2159,hurkyls recall,MM2,Ralph Horsley,Name mismatch
+2179,"i'm rubber, you're glue",UGL,Claymore J Flapdoodle,Artist mismatch
+2180,"i'm rubber, you're glue",UGL,Claymore J Flapdoodle,Artist mismatch
+2181,icatian infantry,FEM,Edward Beard JR,Artist mismatch
+2190,ichor slick,FUT,Z Boros and G Szikszai,Artist and set mismatch
+2191,ichorid,TOR,RK Post,Artist and set mismatch
+2196,ignite disorder,M10,Z Boros and G Szikszai,Artist and set mismatch
+2211,imperious perfect,LRW,Scott Fischer,Artist and set mismatch
+2212,imperious perfect,EMA,Scott Fischer,Artist and set mismatch
+2213,imperious perfect,EMA,Scott Fischer,Artist and set mismatch
+2213,imperious perfect,EMA,Scott Fischer,Artist and set mismatch
+2222,imposter of the sixth pride,MH1,Chris Seaman,Name mismatch
+2223,imposter of the sixth pride,MH1,Chris Seaman,Name mismatch
+2227,imps taunt,TMP,Colin MacNeil,Name mismatch
+2228,incinerate,10E,Z Boros and G Szikszai,Artist and set mismatch
+2229,incinerate,5ED,Scott M Fischer,Artist and set mismatch
+2230,incinerate,M12,Z Boros and G Szikszai,Artist and set mismatch
+2253,inferno elemental,M10,Z Boros and G Szikszai,Artist mismatch
+2259,initiate of blood,CHK,Carl Critchlow,Name mismatch
+2260,initiate of blood,CHK,Carl Critchlow,Name mismatch
+2261,initiate of blood,CHK,Carl Critchlow,Name mismatch
+2272,innocent blood,"EMA, DDR",Carl Critchlow,Set mismatch
+2274,inside out,EVE,Z Boros and G Szikszai,Artist and set mismatch
+2277,instigator gang,ISD,Greg Staples,Name mismatch
+2278,instigator gang,ISD,Greg Staples,Name mismatch
+2280,interplanar tunnel,PC2,Chuck Lukacs,Set mismatch
+2281,interplanar tunnel,PC2,Chuck Lukacs,Set mismatch
+2288,invoke the firemind,GPT,Z Boros and G Szikszai,Artist and set mismatch
+2291,iron maiden,ULG,Tom Wanerstrand,Artist mismatch
+2294,"iron myr, leaden myr, silver myr, copper myr, gold myr, kraken's eye, dragon's claw, angel's feather, wurm's tooth, demon's horn","SOM, 10E, 9ED, M10, M11, M12, DST",Alan Pollack,Name mismatch
+2295,iron-bard hellion,5DN,Doug Chaffee,Name mismatch
+2356,island,PRM,Mark Poole,Artist and set mismatch
+2398,"ith, high arcanist",TSP,Z Boros and G Szikszai,Artist and set mismatch
+2400,ivory cup.,7ED,Alan Pollack,Name mismatch
+2401,ivorytusk fortress,KTK,Matt Stewart,Artist and set mismatch
+2418,jalum grifter,UGL,Claymore J Flapdoodle,Artist mismatch
+2419,jalum grifter,UGL,Claymore J Flapdoodle,Artist mismatch
+2422,"jarad, lich lord",C15,Eric Deschamps,Name mismatch
+2425,jaws of stone,SHM,Z Boros and G Szikszai,Artist and set mismatch
+2436,jester's cap foreign,ICE,Dan Frazier,Name mismatch
+2438,jester's mask foreign,ICE,Dan Frazier,Name mismatch
+2441,"jin-gitaxia, core augur",IMA,Eric Deschamps,Name mismatch
+2443,jinxed idol,M11,JD,Artist and set mismatch
+2462,junun efreet,4ED,Christopher Rush,Name mismatch
+2463,junun efreet,4ED,Christopher Rush,Name mismatch
+2464,junun efreet,4ED,Christopher Rush,Name mismatch
+2467,juxtapose,4ED,Justin Hampton,Set mismatch
+2480,karina's zealot,SCG,Alan Pollack,Name mismatch
+2486,"karona, false god",SCG,Mathew D Wilson,Artist and set mismatch
+2500,"kenrith, the returned king",ELD,KIERAN YANNER,Artist and set mismatch
+2501,kessig,PC2,Adam Paquette,Set mismatch
+2516,kinsbaile balloonist,LRW,Z Boros and G Szikszai,Artist mismatch
+2531,kithkin soldier,CMA,Randy Gallegos,Artist and set mismatch
+2531,kithkin soldier,CMA,Randy Gallegos,Artist and set mismatch
+2532,kithkin soldier,CMA,Randy Gallegos,Artist and set mismatch
+2532,kithkin soldier,CMA,Randy Gallegos,Artist and set mismatch
+2533,kithkin soldier,CMA,Randy Gallegos,Artist and set mismatch
+2534,kithkin soldier,CMA,Randy Gallegos,Artist and set mismatch
+2537,kjeldoran pride a,ALL,Kaja Foglio,Name mismatch
+2538,kjeldoran pride b,ALL,Kaja Foglio,Name mismatch
+2571,krallenhorde wantons,ISD,Randy Gallegos,Name mismatch
+2573,krark-clan shaman,MRD,Thomas M Baxa,Artist mismatch
+2576,krosa,PCA,Steven Belledin,Set mismatch
+2577,krosan avenger,ODY,D Alexander Gregory,Artist mismatch
+2578,krosan grip,MMA,Z Boros and G Szikszai,Artist and set mismatch
+2579,krosan grip,TSP,Z Boros and G Szikszai,Artist and set mismatch
+2585,kuldotha forgemaster,SOM,JD,Artist and set mismatch
+2607,land aid,UNH,Jim Nelson,Name mismatch
+2617,lavaball trap,ZEN,Z Boros and G Szikszai,Artist mismatch
+2626,"leaden myr, silver myr, gold myr, iron myr, copper myr",SOM,Alan Pollack,Name mismatch
+2641,leyline of sanctuary,M11,Ryan Pancoast,Name mismatch
+2642,leyline of singularity,GPT,Z Boros and G Szikszai,Artist mismatch
+2646,liberate.,INV,Alan Pollack,Name mismatch
+2666,liliana title card,JMP,KIERAN YANNER,Name mismatch
+2687,"liliana, untouched by death",M19,Bastien L Deharme,Artist and set mismatch
+2688,"liliana, untouched by death",M19,Bastien L Deharme,Artist and set mismatch
+2688,"liliana, untouched by death",M19,Bastien L Deharme,Artist and set mismatch
+2689,"liliana, untouched by death",M19,Bastien L Deharme,Artist and set mismatch
+2690,"liliana, untouched by death",M19,Bastien L Deharme,Artist and set mismatch
+2691,"liliana, untouched by death",M19,Bastien L Deharme,Artist and set mismatch
+2693,lim-dul's paladin,ALL,Christopher Rush,Name mismatch
+2694,lim-dul's vault,ALL,Rob Alexander,Name mismatch
+2697,living armor,CRN,Anson Maddocks,Set mismatch
+2698,living armor,CRN,Anson Maddocks,Set mismatch
+2727,long-forgotten gohei,"MM2, CHK",Alan Pollack,Set mismatch
+2779,mage,ORI,Adam Paquette,Name mismatch
+2780,mage,ORI,Adam Paquette,Name mismatch
+2781,mage,ORI,Adam Paquette,Name mismatch
+2782,magefire wings,ARB,Z Boros and G Szikszai,Artist mismatch
+2802,magus of the jar,TSP,Z Boros and G Szikszai,Artist mismatch
+2821,mana,CHK,Nottsuo,Name mismatch
+2832,mana tithe,MRD,Martin Pilcerova,Artist and set mismatch
+2843,mangara of corondor,TSP,Z Boros and G Szikszai,Artist and set mismatch
+2844,mangaras tome,MIR,John Bolton,Name mismatch
+2921,massacre,BTD,Pete Venters,Artist and set mismatch
+2926,master of the pearl tride,M13,Ryan Pancoast,Name mismatch
+2928,master warcraft,RAV,Z Boros and G Szikszai,Artist and set mismatch
+2978,metamorphosis,4ED,Christopher Rush,Artist and set mismatch
+2979,metamorphosis,DRK,Christopher Rush,Artist and set mismatch
+2984,might of the oaks,7ED,Greg Staples,Name mismatch
+2985,might of the oaks,8ED,Greg Staples,Name mismatch
+2986,might of the oaks,9ED,Greg Staples,Name mismatch
+3010,minon of tevesh szat,ICE,Julie Baroh,Name mismatch
+3017,mirran crusder,MM2,Eric Deschamps,Name mismatch
+3018,mirran crusder,MM2,Eric Deschamps,Name mismatch
+3019,mirran crusder,MM2,Eric Deschamps,Name mismatch
+3023,mirror entity,LRW,Z Boros and G Szikszai,Artist and set mismatch
+3027,mirror of fate core,M10,Alan Pollack,Name mismatch
+3031,mishra's factory,4ED,Phil and Kaja Foglio,Artist and set mismatch
+3036,mistmeadow witch,MM2,Greg Staples,Set mismatch
+3041,mllstone,ATQ,Kaja Foglio,Name mismatch
+3048,mobilization,"C14, 10ED, ONS",Carl Critchlow,Set mismatch
+3053,moggcatcher,BTD,Pete Venters,Set mismatch
+3054,moggcatcher,BTD,Pete Venters,Set mismatch
+3055,moggcatcher,BTD,Pete Venters,Set mismatch
+3056,moggcatcher,BTD,Pete Venters,Set mismatch
+3064,"momir vig, simic visionary",DIS,Z Boros and G Szikszai,Artist and set mismatch
+3077,mountain,7ED,DJ Cleland-Hura,Artist and set mismatch
+3139,mountain,PRM,Mark Poole,Artist and set mismatch
+3141,mountain,ALA,Z Boros and G Szikszai,Artist and set mismatch
+3165,murkwater pathway,ZNR,Daarken,Name mismatch
+3178,mutual epiphany,PC2,Jason Felix,Set mismatch
+3179,mwonvuli acid moss,TSP,Randy Gallegos,Name mismatch
+3180,mwonvuli acid moss,TSP,Randy Gallegos,Name mismatch
+3181,mycoid shepherd,ALA,Trevor Claxton,Artist and set mismatch
+3182,myojin black,CHK,Kev Walker,Name mismatch
+3183,myojin of cleansing firemyojin of cleansing firemyojin of cleansing fire,CHK,Kev Walker,Name mismatch
+3198,mystic confluence,J16,KIERAN YANNER,Artist and set mismatch
+3203,mystic remora,ICE,Ken Meyer Jr.,Artist and set mismatch
+3204,nacatle outlander,CON,Z Boros and G Szikszai,Name mismatch
+3205,naf's asp,4ED,Christopher Rush,Name mismatch
+3249,nezumi graverobber,CHK,Jim Nelson,Name mismatch
+3250,nezumi graverobber,CHK,Jim Nelson,Name mismatch
+3275,nights whipser,5DN,David Martin,Name mismatch
+3320,nomadie elf,INV,DJ Cleland-Hura,Name mismatch
+3326,"northern paladin, western paladin, eastern paladin","7ED, 8ED",Carl Critchlow,Name mismatch
+3330,nova cleric,SCG,Alan Pollack,Set mismatch
+3352,obsidian golem,LEB,Jesper Myrfors,Name mismatch
+3360,oko the trickster,ELD,Chris Rallis,Name mismatch
+3361,oko the trickster,ELD,Chris Rallis,Name mismatch
+3362,oko the trickster,ELD,Chris Rallis,Name mismatch
+3390,ophidian eye,TSP,Z Boros and G Szikszai,Artist and set mismatch
+3392,opposition agent,CME,Scott Murphy,Set mismatch
+3431,order of the ebon hand,FEM,Heather Hudson,Artist and set mismatch
+3441,orzhov enthusiast,GPT,Z Boros and G Szikszai,Name mismatch
+3444,ouphe vandals,5DN,Thomas M Baxa,Artist mismatch
+3472,overrun,"M10, M12, PCA, C15, CMA, C14, CN2, PC2, ODY",Carl Critchlow,Artist and set mismatch
+3489,palladium myr,"SOM, C14",Alan Pollack,Set mismatch
+3492,"palladium myr, iron myr, leaden myr, silver myr, copper myr, gold myr, kraken's eye, dragon's claw, angel's feather, wurm's tooth, demon's horn","SOM, M12, M11. M11, 10E, 9ED, DST",Alan Pollack,Name mismatch
+3496,paperfin rascal,LRW,Z Boros and G Szikszai,Artist mismatch
+3497,parallax,NEM,Carl Critchlow,Name mismatch
+3503,pardic dragon,TSP,Z Boros and G Szikszai,Artist and set mismatch
+3504,pariah,7ED,Scott Fischer,Artist and set mismatch
+3505,pariahs shield,RAV,Doug Chaffee,Name mismatch
+3506,pariahs shield,RAV,Doug Chaffee,Name mismatch
+3516,patriarchs bidding,ONS,Ben Thompson,Name mismatch
+3517,patriarchs bidding,ONS,Ben Thompson,Name mismatch
+3520,patron of the nezumi,SOK,Kev Walker,Set mismatch
+3524,peema aether-seeker,AER,Howard Lyon,Name mismatch
+3527,pernicious deed,CNS,Chistopher Moeller,Artist and set mismatch
+3537,petrified plating,FUT,Z Boros and G Szikszai,Artist mismatch
+3558,phyrexian arena,"8ED, C15",Carl Critchlow,Artist and set mismatch
+3569,phyrexian reclamation,C15,RK Post,Artist and set mismatch
+3571,phyrexian totam,TSP,John Zeleznik,Name mismatch
+3572,pia and kiran nalaar,ORI,Tyler Jacobson,Artist and set mismatch
+3573,pia and kiran nalaar,ORI,Tyler Jacobson,Artist and set mismatch
+3583,piracy black,P02,Bradley Williams,Name mismatch
+3584,piracy black,P02,Bradley Williams,Name mismatch
+3585,piracy white,S99,Bradley Williams,Name mismatch
+3586,piracy white,S99,Bradley Williams,Name mismatch
+3587,piracy white,S99,Bradley Williams,Name mismatch
+3588,piracy white,S99,Bradley Williams,Name mismatch
+3598,plague wind,"9ED, 10E",Alan Pollack,Set mismatch
+3599,plain,UGL,Christopher Rush,Name mismatch
+3600,plain,HOU,Titus Lunter,Name mismatch
+3608,plains,INV,DJ Cleland-Hura,Artist and set mismatch
+3627,plains,PRM,Mark Poole,Artist and set mismatch
+3629,plains,ALA,Z Boros and G Szikszai,Artist and set mismatch
+3643,platinum angel,MPS,Victor Adam Minguez,Artist and set mismatch
+3650,plaxmanta,"C15, DIS",Alan Pollack,Set mismatch
+3652,plow under,UDS,Edward P Beard Jr,Artist and set mismatch
+3655,poison the well,SHM,Z Boros and G Szikszai,Artist mismatch
+3656,poisonbelly ogre,GPT,Z Boros and G Szikszai,Artist mismatch
+3658,ponder,9ED,Mark Tedin,Artist and set mismatch
+3678,pox,5ED,Scott Fischer,Artist and set mismatch
+3679,pradesh gypses,5ED,Quinton Hoover,Name mismatch
+3680,prahv,PC2,Drew Baker,Set mismatch
+3681,prahv,PC2,Drew Baker,Set mismatch
+3682,prahv,PC2,Drew Baker,Set mismatch
+3683,prarie stream,BFZ,Adam Paquette,Name mismatch
+3684,prarie stream,BFZ,Adam Paquette,Name mismatch
+3685,precint captain,RTR,Steve Prescott,Name mismatch
+3688,predatory focus,GPT,Z Boros and G Szikszai,Artist mismatch
+3694,preyseizer dragon,HOP,Daarken,Set mismatch
+3695,preyseizer dragon,HOP,Daarken,Set mismatch
+3696,preyseizer dragon,HOP,Daarken,Set mismatch
+3706,primal growth,CMA,RK Post,Artist and set mismatch
+3707,primal whisperer,LNG,Greg Staples,Set mismatch
+3720,prismatic lens,"EMA, TPS",Alan Pollack,Artist and set mismatch
+3725,prison term,SHM,Z Boros and G Szikszai,Artist and set mismatch
+3731,prodigal sorcerer,TSP,Douglas Shuler,Artist and set mismatch
+3731,prodigal sorcerer,TSP,Douglas Shuler,Artist and set mismatch
+3745,psionic blast,TSP,Douglas Shuler,Artist and set mismatch
+3745,psionic blast,TSP,Douglas Shuler,Artist and set mismatch
+3747,psychic network,UGL,Claymore J Flapdoodle,Artist mismatch
+3748,psychic network,UGL,Claymore J Flapdoodle,Artist mismatch
+3766,puncturing light,ROE,Z Boros and G Szikszai,Artist and set mismatch
+3767,punishing fire,ZEN,Chistopher Moeller,Artist and set mismatch
+3782,pyknite,ICE,Edward Beard Jr.,Artist mismatch
+3788,pyroclasm,ICE,Pat Morrissey,Artist and set mismatch
+3794,queen marchesa,CMR,KIERAN YANNER,Artist and set mismatch
+3830,rakalite,DRK,Christopher Rush,Set mismatch
+3831,rakdos augermage,DIS,Z Boros and G Szikszai,Artist mismatch
+3833,rakdos the defiler,DIS,Z Boros and G Szikszai,Artist and set mismatch
+3836,rally the troops,PO2,Mark Poole,Artist and set mismatch
+3838,rampant growth,7ED,Scott Fischer,Artist and set mismatch
+3838,rampant growth,7ED,Scott Fischer,Artist and set mismatch
+3840,randy gallegos,TSP,Randy Gallegos,Name mismatch
+3850,rathi dragon,9ED Oversized,Christphor Rush,Artist and set mismatch
+3894,reality shaping,PC2,Dan Scott,Artist and set mismatch
+3910,recurring insight,ROE,Z Boros and G Szikszai,Artist mismatch
+3914,redwood treefolk,7ED,DJ Cleland-Hura,Artist and set mismatch
+3917,refraction trap,WWK,Z Boros and G Szikszai,Artist mismatch
+3918,regal caracal,SDL,Andrea Radeck,Artist and set mismatch
+3925,rekindled flame,EVE,Z Boros and G Szikszai,Artist mismatch
+3926,reknit,SHM,Z Boros and G Szikszai,Artist mismatch
+3927,relentless rats,5DN,Thomas M Baxa,Artist and set mismatch
+3932,remodel,UNH,Lars Grant-West,Artist mismatch
+3950,research / development,DIS,Greg Staples,Name mismatch
+3959,reverberate,M11,JD,Artist and set mismatch
+3961,reverse damage foreign,4ED,Dameon Willich,Name mismatch
+3990,rise from the tides,FNM,Lucas Graciano,Artist and set mismatch
+3994,rivals' duel,MOR,Z Boros and G Szikszai,Artist and set mismatch
+3995,river of tears,IMA,Chris J Anderson,Artist and set mismatch
+4016,rohgahh of kher keep,LEG,Edward Beard Jr,Artist and set mismatch
+4018,ronom hulk,CSP,Z Boros and G Szikszai,Artist mismatch
+4039,"rune-tail, kitsune ascendant",SOK,Randy Gallegos,Name mismatch
+4040,"rune-tail, kitsune ascendant",SOK,Randy Gallegos,Name mismatch
+4041,"rune-tail, kitsune ascendant",SOK,Randy Gallegos,Name mismatch
+4042,"rune-tail, kitsune ascendant",SOK,Randy Gallegos,Name mismatch
+4054,"ruric thar, the unbowed",M25,Tyler Jacobson,Artist and set mismatch
+4054,"ruric thar, the unbowed",M25,Tyler Jacobson,Artist and set mismatch
+4055,"ruric thar, the unbowed",M25,Tyler Jacobson,Artist and set mismatch
+4056,"ruric thar, the unbowed",M25,Tyler Jacobson,Artist and set mismatch
+4057,"ruric thar, the unbowed",M25,Tyler Jacobson,Artist and set mismatch
+4058,"ruric thar, the unbowed",M25,Tyler Jacobson,Artist and set mismatch
+4097,samite piligrim,PLS,DJ Cleland-Hura,Name mismatch
+4101,sanguine praetor,GPT,RK Post,Artist and set mismatch
+4105,saprazaan outrigger,MMQ,Doug Chaffee,Name mismatch
+4108,satyr,THB,Eric Deschamps,Artist and set mismatch
+4109,satyr,THB,Eric Deschamps,Artist and set mismatch
+4119,"savra, queen of the golgari",RAV,Scott Fischer,Artist and set mismatch
+4120,"savra, queen of the golgari",RAV,Scott Fischer,Artist and set mismatch
+4121,sawtoooth ogre,WTH,Brom,Name mismatch
+4133,scion of oona,,Eric Fortune,Set mismatch
+4136,scourge of fleets,JOU,Adam Paquette,Artist and set mismatch
+4137,scourge of fleets,JOU,Adam Paquette,Artist and set mismatch
+4138,scout's warning,FUT,Z Boros and G Szikszai,Artist mismatch
+4145,scrapheap scrounger,KLD,Jason A Engle,Artist and set mismatch
+4145,scrapheap scrounger,KLD,Jason A Engle,Artist and set mismatch
+4153,scute mob,ZEN,Z Boros and G Szikszai,Artist and set mismatch
+4154,scute mob,MM2,Z Boros and G Szikszai,Artist and set mismatch
+4157,sea of sand,PCA,Jim Nelson,Set mismatch
+4192,secret summonings,CNS,Lucas Graciano,Name mismatch
+4200,seething song,PLC,Martin Pilcerova,Artist and set mismatch
+4221,selesnya santuary,C17,John Avon,Name mismatch
+4265,serra's embrace,10E,Z Boros and G Szikszai,Artist and set mismatch
+4267,set of,IXA,Lucas Graciano,Name mismatch
+4268,setessan griffen,THS,Greg Staples,Name mismatch
+4286,shapeshifter,LRW,Alan Pollack,Artist and set mismatch
+4291,shatter,SOM,JD,Artist and set mismatch
+4293,"shauku, the endbringer",MIR,Pete Venters,Name mismatch
+4294,sheild bearer,ICE,Dan Frazier,Name mismatch
+4295,"sheoldred, whispering one",IMA,Jana Schirmer & Johanes Voss,Artist and set mismatch
+4306,"shisato, whipering hunt",CHK,John Bolton,Name mismatch
+4313,sickening dreams,TOR,Scott Fischer,Artist and set mismatch
+4315,siege behemoth,C14,Jason A Engle,Artist and set mismatch
+4319,sigil of destruction,ALA,Alan Pollack,Name mismatch
+4321,sigil of the empty throne,C15,Cyril van Der Haegen,Artist and set mismatch
+4322,sigil of the empty throne,ORI,Cyril van Der Haegen,Artist and set mismatch
+4323,sigil of the empty throne,ORI,Cyril van Der Haegen,Artist and set mismatch
+4324,sigil of the empty throne,PC2,Cyril van Der Haegen,Artist and set mismatch
+4355,simic ascendancy,RNA,Simon Dominic,Artist and set mismatch
+4356,simic ascendancy,RNA,Simon Dominic,Artist and set mismatch
+4357,simic ascendancy,RNA,Simon Dominic,Artist and set mismatch
+4358,simic ascendancy,RNA,Simon Dominic,Artist and set mismatch
+4362,"siona, captain of the pyleas",DOM,Chris Rallis,Set mismatch
+4366,sisters of the flames,DRK,Jesper Myrfors,Name mismatch
+4368,skeletal wurm,ROE,Z Boros and G Szikszai,Artist and set mismatch
+4372,skirk outrider,LNG,Greg Staples,Set mismatch
+4378,skullscorch,ULG,Bradley Williams,Set mismatch
+4379,skullscorch,ULG,Bradley Williams,Set mismatch
+4388,skyship sailor,KLD,Tyler Jacobson,Name mismatch
+4389,skyship sailor,KLD,Tyler Jacobson,Name mismatch
+4418,smoldering butcher,EVE,Z Boros and G Szikszai,Artist mismatch
+4422,smugglers copter,KLD,Florian de Gesincourt,Name mismatch
+4427,snapback,TPS,Alan Pollack,Set mismatch
+4431,snow devil,ICE,Ken Meyer Jr.,Artist and set mismatch
+4432,snow hound,ICE,Pat Morrissey,Artist mismatch
+4436,snow-covered forest,ICE,Pat Morrissey,Artist and set mismatch
+4458,snowhound,ICE,Pat Morrissey,Name mismatch
+4465,soldier token,MH1,Greg Staples,Name mismatch
+4466,solemn simlacrum,MRD,Greg Staples,Name mismatch
+4479,sorceress queen,4ED,Phil Foglio,Artist and set mismatch
+4501,soul bleed,M10,Z Boros and G Szikszai,Artist mismatch
+4534,soulsworn jury,DIS,Z Boros and G Szikszai,Artist and set mismatch
+4558,sphinx token,RNA,Scott Murphy,Name mismatch
+4560,spidersilk net,ZEN,Z Boros and G Szikszai,Artist and set mismatch
+4580,spirit link,4ED,Phil Foglio,Artist and set mismatch
+4583,spirit mantle,PL2,Izzy,Set mismatch
+4584,spirit shackle,4ED,Edward Beard JR,Artist and set mismatch
+4620,staff of nin,M13,Dan Scott,Artist and set mismatch
+4621,stairs to infinity,PCA,Steven Belledin,Set mismatch
+4631,stauch-hearted warrior,UMA,Greg Staples,Name mismatch
+4632,stauch-hearted warrior,UMA,Greg Staples,Name mismatch
+4641,steel leaf champion,DOM,Simon Dominic,Artist and set mismatch
+4642,steel leaf champion,DOM,Simon Dominic,Artist and set mismatch
+4655,stone giant foreign,4ED,Dameon Willich,Name mismatch
+4665,storm shaman,7ED,DJ Cleland-Hura,Artist and set mismatch
+4701,"sudden spoiling, tainted isle, read the runes","C14, PCA, C16",Alan Pollack,Name mismatch
+4713,sunbeam spellbom,MRD,Jim Nelson,Name mismatch
+4714,sunbeam spellbom,MRD,Jim Nelson,Name mismatch
+4737,surprise deplotment,PLS,Bradley Williams,Name mismatch
+4753,swamp,7ED,DJ Cleland-Hura,Artist and set mismatch
+4795,swamp,PRM,Mark Poole,Artist and set mismatch
+4816,swan song,SLD,Allen Dougas,Artist and set mismatch
+4837,sylvan scrying,10E,Scott Fischer,Artist and set mismatch
+4841,symbol of status,UNH,Liz Danforth,Name mismatch
+4877,tainted isle,"PCA, PC2",Alan Pollack,Artist and set mismatch
+4889,tarnished citadel,TMP,David Martin,Set mismatch
+4890,tarnished citadel,TMP,David Martin,Set mismatch
+4891,tarnished citadel,TMP,David Martin,Set mismatch
+4912,teferi's protection,SLD,KIERAN YANNER,Artist and set mismatch
+4923,"teferi, temporal archmage",C13,Tyler Jacobson,Set mismatch
+4924,"teferi, temporal archmage",C13,Tyler Jacobson,Set mismatch
+4925,"teferi, temporal archmage",C13,Tyler Jacobson,Set mismatch
+4926,"teferi, temporal archmage",C13,Tyler Jacobson,Set mismatch
+4927,"teferi, temporal archmage",C13,Tyler Jacobson,Set mismatch
+4928,"teferi, temporal archmage",C13,Tyler Jacobson,Set mismatch
+4933,telim tor,MIR,Kev Walker,Name mismatch
+4935,temple of aclazotz,XLN,Daarken,Name mismatch
+4939,"teneb, the harvester",PLC,Z Boros and G Szikszai,Artist and set mismatch
+4950,thalakos lowlands,TMP,Jeff A Menges,Artist and set mismatch
+4960,the dark barony,PCA,Pete Venters,Set mismatch
+4961,the dark barony,PCA,Pete Venters,Set mismatch
+4962,the dark barony,PCA,Pete Venters,Set mismatch
+4963,the dark barony,PCA,Pete Venters,Set mismatch
+4972,the prismatic bridge,KHM,Collin Estrada,Name mismatch
+4972,the prismatic bridge,KHM,Collin Estrada,Name mismatch
+4975,the wretched,DRK,Christopher Rush,Set mismatch
+4976,the zephyr maze,PC2,RK Post,Artist and set mismatch
+4980,thelonite hermit,FEM,Margaret Organ-Kean,Artist and set mismatch
+4981,thermokarst,ICE,Ken Meyer Jr.,Artist and set mismatch
+4982,thermokarst,ICE,Christopher Rush,Artist and set mismatch
+4983,thespians stage,GTC,John Avon,Name mismatch
+4984,thieves' fortune,MOR,Z Boros and G Szikszai,Artist mismatch
+4985,thistledown duo,SHM,Z Boros and G Szikszai,Artist mismatch
+5009,threads of disloyalty,SS2,Tyler Jacobson,Artist and set mismatch
+5021,throat slitter,PC2,Parente,Artist and set mismatch
+5024,thunderbreak regeant,DTK,Ryan Pancoast,Name mismatch
+5031,thunderscape master,INV,Scott Fischer,Artist mismatch
+5041,time distortion,PC2,RK Post,Artist and set mismatch
+5049,timebender,PLC,Z Boros and G Szikszai,Artist and set mismatch
+5064,"tooth of chiss-goria, scale of chiss-goria",MDR,Alan Pollack,Name mismatch
+5065,"tooth of chiss-goria, scale of chiss-goria, neurok hoversail",MRD,Alan Pollack,Name mismatch
+5080,trading post,M15,Adam Paquette,Artist and set mismatch
+5083,trailblazer's boots,ZEN,Z Boros and G Szikszai,Artist and set mismatch
+5106,treefolk-harbinger,LRW,Larry MacDougall,Name mismatch
+5109,"treetop scout, bonethorn valesk, fierce empath",SCG,Alan Pollack,Name mismatch
+5110,trhrull retainer,FEM,Ron Spencer,Name mismatch
+5115,triskevalus,TSP,Mark Zug,Name mismatch
+5116,triskevalus,TSP,Mark Zug,Name mismatch
+5117,truga jungle,PC2,Jim Nelson,Set mismatch
+5118,truga jungle,PCA,Jim Nelson,Set mismatch
+5130,"tymaret, the murder king",THS,Volkan Baga,Artist mismatch
+5143,ugin's insight,OGW,Tyler Jacobson,Set mismatch
+5144,ugin's insight,OGW,Tyler Jacobson,Set mismatch
+5145,ugin's insight,OGW,Tyler Jacobson,Set mismatch
+5149,"ugin, the spirit dragon",FRF,Chris Rahn,Artist and set mismatch
+5150,"ugin, the spirit dragon",FRF,Chris Rahn,Artist and set mismatch
+5151,"ugin, the spirit dragon",FRF,Chris Rahn,Artist and set mismatch
+5152,"ugin, the spirit dragon",FRF,Chris Rahn,Artist and set mismatch
+5153,"ugin, the spirit dragon",FRF,Chris Rahn,Artist and set mismatch
+5154,"ugin, the spirit dragon",FRF,Chris Rahn,Artist and set mismatch
+5155,"ugin, the spirit dragon",FRF,Chris Rahn,Artist and set mismatch
+5161,"ulastht, the hate seed",GPT,Nottsuo,Name mismatch
+5162,ulvenwald observer,EMN,Adam Paquette,Artist and set mismatch
+5187,underworld dreams,"M10, 9ED",Carl Critchlow,Artist and set mismatch
+5197,urabask the hidden,IMA,Brad Rigney,Name mismatch
+5214,urza's mine,CRN,Anson Maddocks,Artist and set mismatch
+5217,urza's mine,CRN,Anson Maddocks,Artist and set mismatch
+5218,urza's mine,CRN,Anson Maddocks,Artist and set mismatch
+5218,urza's mine,CRN,Anson Maddocks,Artist and set mismatch
+5219,urza's mine,CRN,Anson Maddocks,Artist and set mismatch
+5220,urza's mine,CRN,Anson Maddocks,Artist and set mismatch
+5221,urza's mine,CRN,Anson Maddocks,Artist and set mismatch
+5221,urza's mine,CRN,Anson Maddocks,Artist and set mismatch
+5222,urza's mine,CRN,Anson Maddocks,Artist and set mismatch
+5223,urza's mine,CRN,Anson Maddocks,Artist and set mismatch
+5223,urza's mine,CRN,Anson Maddocks,Artist and set mismatch
+5224,urza's mine,CRN,Anson Maddocks,Artist and set mismatch
+5225,urza's mine,CRN,Anson Maddocks,Artist and set mismatch
+5225,urza's mine,CRN,Anson Maddocks,Artist and set mismatch
+5247,urza's science fair project,UGL,Claymore J Flapdoodle,Artist mismatch
+5248,urza's science fair project,UGL,Claymore J Flapdoodle,Artist mismatch
+5262,vagrant plowbeasts,CON,Z Boros and G Szikszai,Artist mismatch
+5263,valakut fireboar,ROE,Z Boros and G Szikszai,Artist mismatch
+5266,"valoz, the scar-striped",DGM,Adam Paquette,Name mismatch
+5270,vectis dominator,ARB,Z Boros and G Szikszai,Artist mismatch
+5284,venser's sliver,TPS,Carl Critchlow,Set mismatch
+5286,verdant catacombs,SLD,Sam Burley,Artist and set mismatch
+5305,vesuva,TSP,Z Boros and G Szikszai,Artist and set mismatch
+5313,victory's herald,W17,RK Post,Artist and set mismatch
+5367,voice of all,CMA,RK Post,Artist and set mismatch
+5370,"voja, friend to elves wolf token",UST,Chris Seaman,Name mismatch
+5372,volcanic fallout,CON,Z Boros and G Szikszai,Artist and set mismatch
+5373,voldalian soldier,FEM,Jeff A. Menges,Name mismatch
+5376,"volrath, the fallen",NEM,Kev Walker,Name mismatch
+5391,vulpine,THS,Adam Paquette,Name mismatch
+5403,wall of roots,TSP,John Matson,Artist and set mismatch
+5405,wall of swords,10E,Z Boros and G Szikszai,Artist and set mismatch
+5444,wheel of misfortune,CMR,JP Targete,Artist and set mismatch
+5445,wheel of sun and moon,SHM,Z Boros and G Szikszai,Artist and set mismatch
+5446,where ancients tread,ALA,Z Boros and G Szikszai,Artist and set mismatch
+5447,whiplash trap,ZEN,Z Boros and G Szikszai,Artist and set mismatch
+5451,whitemane lion,C14,Z Boros and G Szikszai,Artist and set mismatch
+5452,whitemane lion,PLC,Z Boros and G Szikszai,Artist and set mismatch
+5458,wildblood pack,ISD,Greg Staples,Name mismatch
+5462,wildfield borderpost,ARB,Z Boros and G Szikszai,Artist mismatch
+5466,wildfire emisary,EMA,Richard Kane Ferguson,Name mismatch
+5476,wing puncture,SOM,JD,Artist mismatch
+5480,wings of aesthir,ICE,Edward Beard Jr.,Artist and set mismatch
+5483,winower patrol,MOR,Eric Fortune,Name mismatch
+5487,winter storm,4ED,Phil Foglio,Name mismatch
+5488,winter's chill,ICE,Edward Beard Jr.,Artist mismatch
+5497,witch hunter,TSP,Jesper Myrfors,Set mismatch
+5500,withengar unbound,V17,Eric Deschamps,Name mismatch
+5502,wojek siren,RAV,Z Boros and G Szikszai,Artist mismatch
+5503,wolly mammoth,ICE,Dan Frazier,Name mismatch
+5509,woodland bellower,ORI,Jasper Sander,Artist mismatch
+5515,word of blasting,ICE,Ken Meyer Jr.,Artist and set mismatch
+5523,worm's tooth,10E,Alan Pollack,Name mismatch
+5524,worm's tooth,9ED,Alan Pollack,Name mismatch
+5525,worm's tooth,DST,Alan Pollack,Name mismatch
+5526,worm's tooth,M10,Alan Pollack,Name mismatch
+5527,worm's tooth,M11,Alan Pollack,Name mismatch
+5528,worm's tooth,M12,Alan Pollack,Name mismatch
+5542,yahenni's expertise,AER,Jason A Engle,Artist and set mismatch
+5543,yahenni's expertise,AER,Jason A Engle,Artist and set mismatch
+5544,yahenni's expertise,AER,Jason A Engle,Artist and set mismatch
+5544,yahenni's expertise,AER,Jason A Engle,Artist and set mismatch
+5545,yahenni's expertise,AER,Jason A Engle,Artist and set mismatch
+5546,yahenni's expertise,AER,Jason A Engle,Artist and set mismatch
+5570,"zahid, djinn of the lamp",DOM,Tyler Jacobson,Artist and set mismatch
+5570,"zahid, djinn of the lamp",DOM,Tyler Jacobson,Artist and set mismatch
+5580,zealous persecution,ARB,Chistopher Moeller,Artist and set mismatch
+5586,"zetalpa,primal dawn",RIX,Chris Rallis,Name mismatch
+5587,"zetalpa,primal dawn",RIX,Chris Rallis,Name mismatch
+5588,"zetalpa,primal dawn",RIX,Chris Rallis,Name mismatch
+5589,"zetalpa,primal dawn",RIX,Chris Rallis,Name mismatch
+5596,zombie master,6ED,Jeff A Menges,Artist and set mismatch
+5598,zombie token,WAR,Simon Dominic,Name mismatch
+5599,zombie token,WAR,Simon Dominic,Name mismatch
+5600,zombie token,WAR,Simon Dominic,Name mismatch
+5601,zombie token,WAR,Simon Dominic,Name mismatch
+5602,zombie token,WAR,Simon Dominic,Name mismatch
+5603,zombie token,WAR,Simon Dominic,Name mismatch
+5604,zuran spellcaster,ICE,Edward Beard Jr.,Artist and set mismatch
