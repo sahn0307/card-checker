@@ -62,7 +62,7 @@ def check_cards(cards, scryfall_cards, header):
                 elif artist_mismatch:
                     discrepancy = 'Artist not found in db'
                 else:
-                    discrepancy = 'Set not found in db'
+                    discrepancy = 'Set not found in dbgit '
 
                 # Find the correct combinations in the database
                 correct_artists = set(c['artist'] for c in name_matches)
@@ -88,7 +88,7 @@ cards, header = load_tsv_data('cards.tsv')
 discrepancies = check_cards(cards, scryfall_cards, header)
 num_mismatches = len(discrepancies)
 
-print(f"Number of mismatches found: {num_mismatches}")
+print(f"Number of discrepancies found: {num_mismatches}")
 
 # Write discrepancies to a CSV file
 with open('discrepancies.csv', 'w', newline='', encoding='utf-8') as csvfile:
