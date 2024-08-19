@@ -46,7 +46,7 @@ def check_cards(cards, scryfall_cards, header):
                 'name': card['name'],
                 'set_code': set_code,
                 'artist': artist,
-                'discrepancy': 'Name mismatch'
+                'discrepancy': 'Name not found in db'
             })
         else:
             # Name matches at least one card in the database
@@ -62,11 +62,11 @@ def check_cards(cards, scryfall_cards, header):
                         set_mismatch = True
 
                 if artist_mismatch and set_mismatch:
-                    discrepancy = 'Artist and set mismatch'
+                    discrepancy = 'Artist and set not found in db'
                 elif artist_mismatch:
-                    discrepancy = 'Artist mismatch'
+                    discrepancy = 'Artist not found in db'
                 else:
-                    discrepancy = 'Set mismatch'
+                    discrepancy = 'Set not found in db'
 
                 discrepancies.append({
                     'ambiguity': ambiguity,
